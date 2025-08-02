@@ -17,13 +17,13 @@ cargo --version
 ## Installation
 
 1. Clone the repository:
-
+```bash
     git clone https://github.com/sharonjeyakumar/why-lang.git
-
+```
 2. Build the project (requires Rust and Cargo):
-
-    cargo build --release
-   
+```bash
+cargo build --release
+```
 3. Add the folder containing `why.exe` (usually `target/release/`) to your system's `PATH` environment variable, so you can run `why` from anywhere.
 
   * On **Windows**:
