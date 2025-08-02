@@ -13,7 +13,7 @@ To verify installation, run:
 ```bash
 rustc --version
 cargo --version
-
+```
 ## Installation
 
 1. Clone the repository:
