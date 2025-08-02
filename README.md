@@ -41,6 +41,7 @@ cargo --version
 
 Run your `.why` code file with:
 
-```why <filename>
+```bash
+why <filename>
 ```
   
