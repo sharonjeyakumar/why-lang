@@ -1,8 +1,8 @@
-#why
+# why
 
 A interpreter for an educational programming language called "why" to help beginners learn programming logic.
 
-##Prerequisites
+## Prerequisites
 - You need to have [Rust](https://www.rust-lang.org/tools/install) and Cargo installed on your system.
 
   You can install Rust and Cargo by following the instructions at:  
@@ -13,7 +13,7 @@ A interpreter for an educational programming language called "why" to help begin
   rustc --version
   cargo --version
 
-##Installation
+## Installation
 
 1. Clone the repository:
 
@@ -36,7 +36,7 @@ A interpreter for an educational programming language called "why" to help begin
        export PATH=$PATH:/path/to/why-lang/target/release
        
     
-##Usage
+## Usage
 
 Run your `.why` code file with:
 why <filename>
