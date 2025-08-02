@@ -18,23 +18,23 @@ cargo --version
 
 1. Clone the repository:
 
-git clone https://github.com/sharonjeyakumar/why-lang.git
+  git clone https://github.com/sharonjeyakumar/why-lang.git
 
 2. Build the project (requires Rust and Cargo):
 
-   cargo build --release
+  cargo build --release
    
 3. Add the folder containing `why.exe` (usually `target/release/`) to your system's `PATH` environment variable, so you can run `why` from anywhere.
 
-   * On **Windows**:
+  * On **Windows**:
 
-     * Search for "Edit environment variables"
-     * Edit the `PATH` variable and add the full path to `target\release`
+    * Search for "Edit environment variables"
+    * Edit the `PATH` variable and add the full path to `target\release`
 
-   * On **Linux/macOS**:
-     * Add the following line to your shell profile (e.g., `.bashrc`, `.zshrc`):
+  * On **Linux/macOS**:
+    * Add the following line to your shell profile (e.g., `.bashrc`, `.zshrc`):
 
-       export PATH=$PATH:/path/to/why-lang/target/release
+      export PATH=$PATH:/path/to/why-lang/target/release
        
     
 ## Usage
@@ -42,5 +42,5 @@ git clone https://github.com/sharonjeyakumar/why-lang.git
 Run your `.why` code file with:
 
 ```why <filename>
-
+```
   
