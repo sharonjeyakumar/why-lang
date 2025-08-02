@@ -3,21 +3,22 @@
 An interpreter for an educational programming language called "why" to help beginners learn programming logic.
 
 ## Prerequisites
-- You need to have [Rust](https://www.rust-lang.org/tools/install) and Cargo installed on your system.
+You need to have [Rust](https://www.rust-lang.org/tools/install) and Cargo installed on your system.
 
-  You can install Rust and Cargo by following the instructions at:  
-  https://www.rust-lang.org/tools/install
+You can install Rust and Cargo by following the instructions at:  
+https://www.rust-lang.org/tools/install
 
-  To verify installation, run:
-  bash
-  rustc --version
-  cargo --version
+To verify installation, run:
+
+```bash
+rustc --version
+cargo --version
 
 ## Installation
 
 1. Clone the repository:
 
-   git clone https://github.com/sharonjeyakumar/why-lang.git
+git clone https://github.com/sharonjeyakumar/why-lang.git
 
 2. Build the project (requires Rust and Cargo):
 
@@ -39,6 +40,7 @@ An interpreter for an educational programming language called "why" to help begi
 ## Usage
 
 Run your `.why` code file with:
-why <filename>
+
+```why <filename>
 
   
