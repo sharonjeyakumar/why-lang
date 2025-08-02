@@ -1,6 +1,6 @@
 # why
 
-A interpreter for an educational programming language called "why" to help beginners learn programming logic.
+An interpreter for an educational programming language called "why" to help beginners learn programming logic.
 
 ## Prerequisites
 - You need to have [Rust](https://www.rust-lang.org/tools/install) and Cargo installed on your system.
