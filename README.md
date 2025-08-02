@@ -18,7 +18,7 @@ cargo --version
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/sharonjeyakumar/why-lang.git
+git clone https://github.com/sharonjeyakumar/why-lang.git
 ```
 2. Build the project (requires Rust and Cargo):
 ```bash
